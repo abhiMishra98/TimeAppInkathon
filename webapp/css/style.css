@@ -1,44 +1,68 @@
 /* Enter your custom styles here */
-.btnLogin .sapMBtnInner{
-	 
-	     background-color:#F3B61F;
-	     border-radius: 2rem;
-	     color:white;
-	   
+
+.btnLogin .sapMBtnInner {
+    background-color: #F3B61F;
+    border-radius: 2rem;
+    color: white;
 }
+
 .inputLogin .sapMInputBaseContentWrapper {
-	border-radius:2rem;
-	   outline:0;
-	
+    border-radius: 2rem;
+    outline: 0;
 }
 
-.loginText .sapMLabel{
-	color:white;
-	
+.loginText .sapMLabel {
+    color: white;
 }
 
-.title{
-	font-size:2rem;
-	color:white;
+.title {
+    font-size: 2rem;
+    color: white;
 }
-.loginPage{
-	background-image: url("../Background.png");
-	background-repeat:no-repeat;
-   background-size: 100% 100%;
-    background-position:center;  
-    width:100%;
-   
+
+.loginPage {
+    background-image: url("../Background.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width: 100%;
 }
+
 .loginText {
-	color:white;
+    color: white;
 }
-.textNewAccount{
-	color:#F3B61F;
-	padding-right:4.5rem;
+
+.textNewAccount {
+    color: #F3B61F;
+    padding-right: 4.5rem;
 }
 
 .loginToolbar {
-	      border-bottom: solid .0625rem transparent;
-	      padding-right:2.5rem;
-	
+    border-bottom: solid .0625rem transparent;
+    padding-right: 2.5rem;
+}
+
+.loginContainer {
+    padding-bottom: 16rem;
+}
+
+.pageHeader {
+    font-size: 4rem;
+    position: relative;
+    bottom: 1rem;
+    color: #F3B61F;
+}
+
+.Header {
+    font-size: 1.2rem;
+    position: relative;
+    top: 1rem;
+    color: #A9A9A9;
+}
+
+.logo {
+    position: relative;
+    left: 1rem;
+    top: 1.25rem;
+    scale: 0.7;
 }

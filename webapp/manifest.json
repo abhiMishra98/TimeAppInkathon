@@ -33,7 +33,7 @@
 	"sap.ui5": {
 		"flexEnabled": false,
 		"rootView": {
-			"viewName": "inc.trng.ZTimeAppInkathon.view.View1",
+			"viewName": "inc.trng.ZTimeAppInkathon.view.signUp",
 			"type": "XML",
 			"async": true,
 			"id": "View1"
